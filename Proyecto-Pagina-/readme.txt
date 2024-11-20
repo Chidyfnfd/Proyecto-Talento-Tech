@@ -13,7 +13,7 @@ https://remixicon.com
 Logotipo de autoria propia
 
 
-Navegador utilizado: Microsoft Edge
+Navegador utilizado para el testeo del software: Microsoft Edge
 
 Direccion de acceso: http://localhost/proyecto-pagina-/index.php?accion=login
 
